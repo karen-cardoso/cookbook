@@ -6,3 +6,5 @@ O desafio está dividido em duas partes, no primeiro momento você irá criar a 
 - HTML
 - CSS
 
+### Resultado esperado
+![image](https://user-images.githubusercontent.com/20442819/155974912-78e84a11-b62e-4b39-bef2-4af8677afdd3.png)
